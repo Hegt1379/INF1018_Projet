@@ -1,2 +1,2 @@
 # INF1018_Projet
-Réalisation / JavaCC & AST (Eclipse)
+H1 Réalisation / JavaCC & AST (Eclipse)
